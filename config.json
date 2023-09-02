@@ -1,0 +1,6 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+  "data-db-connection": "mongodb+srv://Giovanny:Ache123@cluster0.qj4jeu2.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "bd-conteo-votos"
+}
